@@ -6,7 +6,7 @@ st.write('Just for fun, click me')
 btn1=st.button('click me ')    
 if   btn1:
     st.balloons()
-    st.image('Dhush1.jpg')    
+   # st.image('Dhush1.jpg')    
 
 
 x=st.text_input('Enter a string')
